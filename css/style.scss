@@ -1,0 +1,607 @@
+
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+} 
+.hero{
+    .Logo{
+        display: none;
+    }
+    .links{
+        display: none;
+
+}
+
+button{
+    display: none;
+
+}
+}
+    .home{
+        .first h3{
+     font-size: 20px;
+        font-family: poper;
+        margin-left: 15px;
+        margin-bottom: 40px;
+    }
+    .market{
+        p{
+        font-size: 45px;
+        font-family: prep;
+ }
+ img{
+    width: 20%;
+    margin-bottom: 50px;
+ }
+h2{
+    font-size: 20px;
+    font-family: poper;
+    margin-top: 30px;
+}
+    }
+    maa img{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
+}
+
+ .hello{
+        display: flex;
+    }
+
+    .hello{
+        p{
+    font-size: 70px;
+ font-family: prep;
+ justify-content: end;
+ margin-left: 0px;
+ align-items: flex-end;
+}    
+    }
+
+    .hello{
+        .lis{position: relative;
+            width: 100%;
+            .red{width: 100%;
+             height: 100%;
+              background-color: red;} 
+              width: 100%;
+              margin-left: 40vh;
+              .pix{position: absolute; right: 20px; top: 0px; img{width: 80%;}}
+            }
+    }
+       
+.col-md-6 h2{
+     position: absolute;
+        margin-left: 5px;
+} 
+
+.About{
+    height: 100%;
+    
+    h4{ margin-top: 50px;
+        color: red;
+        font-size: 20px;
+        font-family: poper;
+        margin-left: 15px;
+        margin-bottom: 30px;
+    }
+     
+    .inspire{p{
+        font-size: 60px;
+        font-family: poper;
+    }
+
+         
+ button{
+            background-color: black;
+            color: white;
+            padding: 15px;
+            padding: 1px solid black;
+            margin-bottom: 10px;
+            margin-bottom: 30px;
+         }}
+         
+         .inner-items{
+            display: flex;
+            flex-direction:row;
+            margin-left: 100px;
+         
+       }}
+   .About  p{
+        font-size: 15px;
+        font-family: poper;
+        display: flex;
+        padding-right: 80px;
+    }
+    
+.Expertise{
+    background-color: black;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    h3{
+        color: red;
+        font-size: 20px;
+        font-family: poper;
+        margin-left: 15px;
+    }
+    
+    .key{
+        h2{
+            font-size: 40px;
+            font-family: poper;
+            color: white;
+            margin-bottom: 60px;
+        }
+        button{
+            background-color: red;
+            color: white;
+            padding: 15px;
+            padding: 1px solid red;
+            margin-top: 100px;
+        }
+        p{
+            color: white;
+            font-size: 15px;
+            font-family: poper;
+            margin-top: 30px;
+            margin-bottom: 35px;
+        }
+    }
+    .para{
+        p{
+            color: white;
+            font-size: 15px;
+            font-family: poper;
+            margin-top: 30px;
+            margin-bottom: 35px;
+
+        }
+    }
+}
+.projects {
+    h2{
+        font-size: 20px;
+        font-family: poper;
+        color: red;
+        display: flex;
+        padding-left: 15px;
+    
+    }}
+   
+    .nature img{
+        margin-top: 30px;
+        width: 70%;
+        height: 70%;
+    justify-content: space-evenly;
+ }
+ .flex img{
+    margin-top: 30px;
+    width: 100%;
+    flex-direction: column;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+ }
+ .strap img{
+    margin-top: 30px;
+    width: 100%;
+    flex-direction: column;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+ }
+ .last-icon{
+ 
+    display: flex;
+    
+
+ }
+
+
+
+
+
+
+
+
+/*
+####################################################
+M E D I A  Q U E R I E S
+####################################################
+*/
+
+/*
+::::::::::::::::::::::::::::::::::::::::::::::::::::
+Bootstrap 4 breakpoints
+*/
+
+/* 
+Extra small devices (portrait phones, less than 576px) 
+No media query since this is the default in Bootstrap because it is "mobile first"
+*/
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 568px) {  
+
+}
+
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+@media (min-width: 768px) { 
+
+    header{
+        .Logo{
+            span{
+                margin-left: 100%;
+
+            }
+            
+        }
+        padding-top: 30px;
+        display: flex;
+        button{
+            position: absolute;
+            right: 10px;
+        }
+        .links{
+            width: 30%;
+            margin-left: 20%;
+        }
+    }
+    
+    .hero{
+        .Logo{
+            display: flex;
+            font-size: 20px;
+            font-family: poper;
+            color: red;
+            margin-left: 0px;
+        }
+        .links{
+            display: flex;
+            font: 20px;
+            font-family: poper;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    margin-bottom: 40px;
+    color: black;
+    
+    }
+    
+    button{
+        background-color: red;
+        color: white;
+        font-size: 20px;
+        font-family: poper;
+        padding: 5px solid red;
+        margin-right: 0px;
+        display: flex;
+        justify-content: end;
+        align-items: flex-end;
+    
+    }
+    }}
+        .home{
+            .first h3{
+         font-size: 20px;
+            font-family: poper;
+            margin-left: 15px;
+            margin-bottom: 40px;
+        }
+        .market{
+            p{
+            font-size: 45px;
+            font-family: prep;
+     }
+     img{
+        width: 20%;
+        margin-bottom: 30px;
+     }
+    h2{
+        font-size: 20px;
+        font-family: poper;
+    }
+        }
+        maa img{
+            width: 50%;
+        }
+    }
+    
+     .hello{
+            display: flex;
+        }
+    
+        .hello{
+            p{
+        font-size: 70px;
+     font-family: prep;
+     justify-content: end;
+     margin-left: 0px;
+     align-items: flex-end;
+    }    
+        }
+    
+        .hello{
+            .lis{position: relative;
+                width: 100%;
+                .red{width: 100%;
+                 height: 100%;
+                  background-color: red;} 
+                  width: 100%;
+                  margin-left: 40vh;
+                  .pix{position: absolute; right: 20px; top: 0px; img{width: 80%;}}
+                }
+        }
+           
+    .col-md-6 h2{
+         position: absolute;
+            margin-left: 5px;
+    }   
+    
+
+.About{
+    height: 100%;
+    
+    h4{ margin-top: 50px;
+        color: red;
+        font-size: 20px;
+        font-family: poper;
+        margin-left: 15px;
+        margin-bottom: 30px;
+    }
+     
+    .inspire{p{
+        font-size: 60px;
+        font-family: poper;
+    }
+
+         
+ button{
+            background-color: black;
+            color: white;
+            padding: 15px;
+            padding: 1px solid black;
+            margin-bottom: 10px;
+            margin-bottom: 30px;
+         }}
+         
+         .inner-items{
+            display: flex;
+            flex-direction:row;
+            margin-left: 100px;
+         
+       }}
+   .About  p{
+        font-size: 15px;
+        font-family: poper;
+        display: flex;
+        padding-right: 80px;
+    }
+
+         
+
+
+.Expertise{
+    background-color: black;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    h3{
+        color: red;
+        font-size: 20px;
+        font-family: poper;
+        margin-left: 15px;
+    }
+    
+    .key{
+        h2{
+            font-size: 40px;
+            font-family: poper;
+            color: white;
+        }
+        button{
+            background-color: red;
+            color: white;
+            padding: 15px;
+            padding: 1px solid red;
+            margin-top: 80px;
+        }
+        p{
+            color: white;
+            font-size: 15px;
+            font-family: poper;
+            margin-top: 30px;
+            margin-bottom: 35px;
+        }
+    }
+    .para{
+        p{
+            color: white;
+            font-size: 15px;
+            font-family: poper;
+            margin-top: 30px;
+            margin-bottom: 35px;
+
+        }
+    }
+}
+.projects {
+    h2{
+        font-size: 20px;
+        font-family: poper;
+        color: red;
+        display: flex;
+        padding-left: 15px;
+    
+    }}
+   
+    .nature img{
+        margin-top: 30px;
+        width: 70%;
+        height: 70%;
+    justify-content: space-evenly;
+ }
+ .flex img{
+    margin-top: 30px;
+    width: 70%;
+    height: 100%;
+    justify-content: space-evenly;
+ }
+ .strap img{
+    margin-top: 30px;
+    width: 70%;
+    height: 100%;
+    justify-content: space-evenly;
+ }
+ .last-icon{
+ 
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+
+ }
+ 
+
+
+    
+    
+  
+
+    
+  
+   
+    
+
+
+ 
+
+.footer{
+    hr{
+        line-height: 25px;
+        color: red;
+    }
+    height: 10vh;
+    background-color: red;
+    p{
+        color: white;
+        font-size: 25px;
+        font-family: poper;
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        padding-top: 15px;
+        font-weight: lighter;
+    }
+}
+
+
+            
+        
+        
+            
+            
+
+
+
+        
+ 
+
+
+
+
+    
+   
+
+
+
+    
+
+
+
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+    
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {  
+    
+}
+
+
+
+/*
+::::::::::::::::::::::::::::::::::::::::::::::::::::
+Custom media queries
+*/
+
+/* Set width to make card deck cards 100% width */
+@media (max-width: 950px) {
+    
+}

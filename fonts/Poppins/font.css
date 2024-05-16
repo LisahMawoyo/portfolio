@@ -1,0 +1,9 @@
+@font-face {
+    font-family: poper;
+    src: url(./Poppins-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: prep;
+    src: url(../Poppins/Poppins-Italic.ttf);
+}
